@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef4597bc-9b25-48a1-92bd-2aa480b6819d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode_166.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_153.py" afterPath="$PROJECT_DIR$/leetcode_153.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_154.py" afterPath="$PROJECT_DIR$/leetcode_154.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leetcode_301.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Leetcode_Practice.iml" afterPath="$PROJECT_DIR$/.idea/Leetcode_Practice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_198.py" afterPath="$PROJECT_DIR$/leetcode_198.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_20.py" afterPath="$PROJECT_DIR$/leetcode_20.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_213.py" afterPath="$PROJECT_DIR$/leetcode_213.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_337.py" afterPath="$PROJECT_DIR$/leetcode_337.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,86 +18,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_213_py.coverage" NAME="Unittests in leetcode_213.py Coverage Results" MODIFIED="1511841863095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_198_py.coverage" NAME="Unittests in leetcode_198.py Coverage Results" MODIFIED="1511840886314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_154_py.coverage" NAME="Unittests in leetcode_154.py Coverage Results" MODIFIED="1511602844418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_301_py.coverage" NAME="Unittests in leetcode_301.py Coverage Results" MODIFIED="1511842058460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_153_py.coverage" NAME="Unittests in leetcode_153.py Coverage Results" MODIFIED="1511840625726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_543_py.coverage" NAME="Unittests in leetcode_543.py Coverage Results" MODIFIED="1511870852323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_213_py.coverage" NAME="Unittests in leetcode_213.py Coverage Results" MODIFIED="1511868449473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$temp_test.coverage" NAME="temp_test Coverage Results" MODIFIED="1511870605310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_20_py.coverage" NAME="Unittests in leetcode_20.py Coverage Results" MODIFIED="1511868365049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_198_py.coverage" NAME="Unittests in leetcode_198.py Coverage Results" MODIFIED="1511868399846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_154_py.coverage" NAME="Unittests in leetcode_154.py Coverage Results" MODIFIED="1511868374114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1511868122882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_337_py.coverage" NAME="Unittests in leetcode_337.py Coverage Results" MODIFIED="1511868321776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_301_py.coverage" NAME="Unittests in leetcode_301.py Coverage Results" MODIFIED="1511869260782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_Practice$Unittests_in_leetcode_153_py.coverage" NAME="Unittests in leetcode_153.py Coverage Results" MODIFIED="1511868369340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="leetcode_688.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_688.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_153.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_153.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_198.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_198.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="leetcode_213.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode_213.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="277">
+              <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leetcode_301.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode_301.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_20.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_20.py">
+      <file leaf-file-name="leetcode_543.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode_543.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_154.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_154.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,11 +68,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/leetcode_688.py" />
-        <option value="$PROJECT_DIR$/leetcode_153.py" />
         <option value="$PROJECT_DIR$/leetcode_154.py" />
         <option value="$PROJECT_DIR$/leetcode_20.py" />
+        <option value="$PROJECT_DIR$/leetcode_153.py" />
+        <option value="$PROJECT_DIR$/utils/TreeNode.py" />
+        <option value="$PROJECT_DIR$/utils/Tree.py" />
+        <option value="$PROJECT_DIR$/utils/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/leetcode_337.py" />
         <option value="$PROJECT_DIR$/leetcode_198.py" />
         <option value="$PROJECT_DIR$/leetcode_213.py" />
+        <option value="$PROJECT_DIR$/leetcode_301.py" />
+        <option value="$PROJECT_DIR$/temp_test.py" />
+        <option value="$PROJECT_DIR$/leetcode_543.py" />
       </list>
     </option>
   </component>
@@ -173,7 +143,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -194,39 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in leetcode_301.py">
-    <configuration default="false" name="Unittests in leetcode_154.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/leetcode_154.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in leetcode_153.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Leetcode_Practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/leetcode_153.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in leetcode_543.py">
     <configuration default="false" name="Unittests in leetcode_198.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,6 +211,41 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/leetcode_301.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in leetcode_543.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/leetcode_543.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="temp_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Leetcode_Practice" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -424,19 +397,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_154.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_153.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_198.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_213.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_301.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_198.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_213.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_301.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_543.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.temp_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_301.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_213.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_198.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_153.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_154.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_543.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.temp_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_301.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_213.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in leetcode_198.py" />
       </list>
     </recent_temporary>
   </component>
@@ -454,35 +427,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 43m 52s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 44m 09s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 46m 38s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 47m 30s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 47m 44s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_198_py - 2017.11.28 at 11h 48m 06s.xml">
-      <configuration name="Unittests in leetcode_198.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_213_py - 2017.11.28 at 12h 01m 51s.xml">
+    <history-entry file="Unittests_in_leetcode_213_py - 2017.11.28 at 19h 26m 59s.xml">
       <configuration name="Unittests in leetcode_213.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_leetcode_213_py - 2017.11.28 at 12h 03m 35s.xml">
+    <history-entry file="Unittests_in_leetcode_213_py - 2017.11.28 at 19h 27m 29s.xml">
       <configuration name="Unittests in leetcode_213.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_leetcode_213_py - 2017.11.28 at 12h 04m 23s.xml">
-      <configuration name="Unittests in leetcode_213.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 12h 07m 38s.xml">
+    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 19h 27m 42s.xml">
       <configuration name="Unittests in leetcode_301.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 19h 32m 20s.xml">
+      <configuration name="Unittests in leetcode_301.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 19h 33m 59s.xml">
+      <configuration name="Unittests in leetcode_301.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 19h 39m 27s.xml">
+      <configuration name="Unittests in leetcode_301.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_301_py - 2017.11.28 at 19h 41m 01s.xml">
+      <configuration name="Unittests in leetcode_301.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_543_py - 2017.11.28 at 20h 04m 17s.xml">
+      <configuration name="Unittests in leetcode_543.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_543_py - 2017.11.28 at 20h 05m 34s.xml">
+      <configuration name="Unittests in leetcode_543.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_leetcode_543_py - 2017.11.28 at 20h 07m 32s.xml">
+      <configuration name="Unittests in leetcode_543.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -495,9 +468,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39944133" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -534,8 +507,13 @@
           <line>50</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/leetcode_543.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -588,10 +566,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_166.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_688.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="198">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_153.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -604,50 +606,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_153.py">
+    <entry file="file://$PROJECT_DIR$/utils/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_166.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="-623">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_337.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_198.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_213.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_301.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="973">
+          <caret line="68" column="81" lean-forward="true" selection-start-line="68" selection-start-column="81" selection-end-line="68" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_213.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="59" column="47" lean-forward="false" selection-start-line="59" selection-start-column="47" selection-end-line="59" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_543.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
           <folding />
         </state>
       </provider>

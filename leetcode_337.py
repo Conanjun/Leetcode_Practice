@@ -3,6 +3,8 @@
 # Mail  : 1526840124@qq.com
 # Func  : leetcode_337
 
+from utils.BinaryTree import TreeNode
+
 '''
 	House Robber III
 	
@@ -31,14 +33,6 @@ Example 2:
 Maximum amount of money the thief can rob = 4 + 5 = 9. 
 
 '''
-
-
-# Definition for a binary tree node.
-class TreeNode(object):
-	def __init__(self, x):
-		self.val = x
-		self.left = None
-		self.right = None
 
 
 # ***********************************************************************************************************************
