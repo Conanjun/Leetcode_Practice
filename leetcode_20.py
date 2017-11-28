@@ -4,6 +4,8 @@
 # Func  : leetcode_20
 
 '''
+    Valid Parentheses 
+    
 Description:
 
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
@@ -11,7 +13,7 @@ Given a string containing just the characters '(', ')', '{', '}', '[' and ']', d
 The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not.
 '''
 
-from DataStructure.Stack import Stack
+from utils.Stack import Stack
 
 
 class Solution(object):
